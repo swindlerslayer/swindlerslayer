@@ -38,6 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/swindlerslayer/swindlerslayer/output/snake.svg" alt="Snake animation" />
 
 ###
